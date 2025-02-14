@@ -66,6 +66,6 @@ def get_relative_volume(symbol: str, date: str):
 
 
 # Example usage
-symbol = "BSLK"  # Set company symbol here
+symbol = "NVDA"  # Set company symbol here
 date = "2025-02-13"  # Set date here
 get_relative_volume(symbol, date)
